@@ -11,3 +11,12 @@ source-dir = "src/lib"
 
 [install]
 library = true
+
+[dependencies]
+BeFoR64.git="https://github.com/szaghi/BeFoR64"
+FACE.git="https://github.com/szaghi/FACE"
+FLAP.git="https://github.com/szaghi/FLAP"
+PENF.git="https://github.com/szaghi/PENF"
+StringiFor.git="https://github.com/szaghi/StringiFor"
+fortran_tester.git="https://github.com/pdebuyl/fortran_tester"
+
